@@ -1,0 +1,19 @@
+====================
+ResNet50 Generalization Analysis
+====================
+
+Model: resnet50_partial_fold4_finetuned
+Training completed after fold4
+Test Accuracy: 0.8373
+
+Model: resnet50_partial_fold3_finetuned
+Training completed after fold3
+Test Accuracy: 0.8445
+
+Model: resnet50_partial_fold2_finetuned
+Training completed after fold2
+Test Accuracy: 0.8583
+
+Model: resnet50_partial_unfreeze
+Training completed after fold1
+Test Accuracy: 0.8305

@@ -1,0 +1,24 @@
+
+====================
+Experiment: cnn_baseline
+Validation Accuracy: 0.7966
+
+====================
+Experiment: cnn_ep3
+Validation Accuracy: 0.8519
+
+====================
+Experiment: cnn_ep3_lr0005
+Validation Accuracy: 0.8683
+
+====================
+Experiment: cnn_avgpool
+Validation Accuracy: 0.7949
+
+====================
+Experiment: cnn_4layers
+Validation Accuracy: 0.8334
+
+====================
+Experiment: cnn_dropout_lr0005
+Validation Accuracy: 0.8201

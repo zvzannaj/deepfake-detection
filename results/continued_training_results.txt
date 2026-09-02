@@ -1,0 +1,24 @@
+
+====================
+Evaluation after fold1 training
+Validation Accuracy: 0.8683
+
+====================
+After continued training on fold2
+Validation Accuracy: 0.8875
+
+====================
+After continued training on fold3
+Validation Accuracy: 0.9022
+
+====================
+After continued training on fold3
+Validation Accuracy: 0.9022
+
+====================
+After continued training on fold4
+Validation Accuracy: 0.9072
+
+====================
+After continued training on fold5
+Validation Accuracy: 0.9167

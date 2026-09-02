@@ -1,0 +1,35 @@
+
+====================
+Experiment: resnet50_lr0001
+Learning Rate: 0.0001
+Epochs: 3
+Validation Accuracy: 0.7966
+
+====================
+Experiment: resnet50_lr001
+Learning Rate: 0.001
+Epochs: 3
+Validation Accuracy: 0.8273
+
+====================
+Experiment: resnet50_partial_unfreeze
+Partial Unfreeze: layer4
+Learning Rate: 0.0001
+Epochs: 3
+Validation Accuracy: 0.9536
+
+====================
+
+====================
+Experiment: resnet50_partial_unfreeze_ep5
+Partial Unfreeze: layer4
+Learning Rate: 0.0001
+Epochs: 5
+Validation Accuracy: 0.9444
+
+====================
+Experiment: resnet50_partial_unfreeze_lr001
+Partial Unfreeze: layer4
+Learning Rate: 0.001
+Epochs: 3
+Validation Accuracy: 0.9486

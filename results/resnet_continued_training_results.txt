@@ -1,0 +1,19 @@
+====================
+Evaluation after fold1 training
+Validation Accuracy: 0.9536
+
+====================
+After continued training on resnet50_partial_fold2_finetuned
+Validation Accuracy: 0.9576
+
+====================
+After continued training on resnet50_partial_fold3_finetuned
+Validation Accuracy: 0.9633
+
+====================
+After continued training on resnet50_partial_fold4_finetuned
+Validation Accuracy: 0.9724
+
+====================
+After continued training on resnet50_partial_fold5_finetuned
+Validation Accuracy: 0.9695

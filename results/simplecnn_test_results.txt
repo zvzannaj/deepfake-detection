@@ -1,0 +1,22 @@
+===== SimpleCNN - Test Results =====
+
+Accuracy : 0.8658
+Precision: 0.8718
+Recall   : 0.8555
+F1-score : 0.8636
+ROC AUC  : 0.9411
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fake       0.86      0.88      0.87      5492
+        Real       0.87      0.86      0.86      5413
+
+    accuracy                           0.87     10905
+   macro avg       0.87      0.87      0.87     10905
+weighted avg       0.87      0.87      0.87     10905
+
+Confusion Matrix:
+Predicted ->	Fake	Real
+Actual Fake	4811	681
+Actual Real	782	4631
