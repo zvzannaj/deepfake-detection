@@ -2,7 +2,7 @@
 
 This repository contains the source code and selected results used in the engineering thesis:
 
-**"Wykrywanie obrazów typu deepfake z wykorzystaniem konwolucyjnych sieci neuronowych"**
+**"Wykrywanie obrazów typu deepfake za pomocą głębokich sieci neuronowych"**
 
 The project focuses on detecting deepfake images using two convolutional neural network architectures:
 
